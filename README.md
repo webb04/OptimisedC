@@ -1,4 +1,4 @@
-# optimised-C
+# OptimisedC
 
 This is an optimised piece of code for the module Advanced Computer Architecture.
 
